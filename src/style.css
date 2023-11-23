@@ -1,0 +1,72 @@
+@font-face {
+  font-family: poppins;
+  src: url(./fonts/Poppins-Medium.ttf);
+}
+body {
+  font-family: poppins;
+}
+.skill {
+  color: #f86202;
+  font-weight: bolder;
+  font-size: 40px;
+}
+.at {
+  color: #38495a;
+  font-weight: bolder;
+  font-size: 40px;
+}
+.inp {
+  width: 230px;
+  border-radius: 7px;
+  margin-bottom: 8px;
+  padding: 8px 20px;
+  padding-left: 5px;
+}
+
+form {
+  background-color: black;
+  width: 68%;
+  border-radius: 20px;
+  box-sizing: border-box;
+}
+.fh1 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+.button1 {
+  padding: 7px 60px;
+  border-radius: 7px;
+  background-color: #f86202;
+  color: white;
+  margin-bottom: 10px;
+}
+.choose {
+  background-image: url(./img/search_icond-removebg-preview.png);
+  background-repeat: no-repeat;
+  background-size: 20px;
+  background-position-x: 380px;
+  background-position-y: center;
+  margin-bottom: 10px;
+}
+.khi {
+  padding: 5px 12px;
+  border-radius: 5px;
+  border-color: rgb(192, 192, 192);
+  float: left;
+  box-shadow: 2px rgb(192, 185, 185);
+}
+.top {
+  text-align: center;
+  font-weight: 900;
+  color: rgb(33, 36, 39);
+}
+.p1 {
+  text-align: center;
+  color: rgb(33, 36, 39);
+}
+.all{
+  width: 40px;
+   height: 50px;
+ margin-top: 20px;
+}
