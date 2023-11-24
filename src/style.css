@@ -15,6 +15,7 @@ body {
   font-weight: bolder;
   font-size: 40px;
 }
+
 .inp {
   width: 230px;
   border-radius: 7px;
@@ -70,8 +71,38 @@ form {
   height: 50px;
   margin-top: 20px;
 }
-.col {
+.cole {
   margin-right: 7px;
   margin-left: 7px;
   margin-bottom: 5px;
+}
+
+.rectext {
+  position: relative;
+  bottom: 180px;
+  color: white;
+  font-weight: bold;
+}
+.recom {
+  background-color: rgb(211, 204, 204);
+  border-radius: 15px;
+}
+.row2 {
+  margin-top: -100px;
+}
+.cols {
+  margin-top: 20px;
+}
+.book:hover {
+  background-color: #f86202;
+  border-color: #f86202;
+}
+.book {
+  padding: 5px 75px;
+  background-color: black;
+  border-color: black;
+  color: white;
+  border-radius: 7px;
+  position: relative;
+  bottom: 130px;
 }
