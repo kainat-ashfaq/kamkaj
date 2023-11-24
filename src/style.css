@@ -106,6 +106,41 @@ form {
   position: relative;
   bottom: 130px;
 }
-.tools{
+.tools {
   width: 300px;
+  height: 500px;
 }
+.mob {
+  width: 250px;
+  height: 400px;
+}
+.down {
+  margin-top: 130px;
+}
+.playstore {
+  width: 150px;
+  height: 40px;
+  margin-top: 5px;
+}
+.QR {
+  width: 200px;
+  height: 200px;
+  margin-top: 60px;
+}
+.carousel-inner > .item.next,
+.carousel-inner > .item.active.right {
+  left: 0;
+  -webkit-transform: translate3d(33%, 0, 0);
+  -ms-transform: translate3d(33%, 0, 0);
+  -o-transform: translate3d(33%, 0, 0);
+  transform: translate3d(33%, 0, 0);
+}
+.carousel-inner > .item.prev,
+.carousel-inner > .item.active.left {
+  left: 0;
+  -webkit-transform: translate3d(-33%, 0, 0);
+  -ms-transform: translate3d(-33%, 0, 0);
+  -o-transform: translate3d(-33%, 0, 0);
+  transform: translate3d(-33%, 0, 0);
+}
+ 
